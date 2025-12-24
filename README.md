@@ -1,6 +1,6 @@
 # User Management Web Application (React)
 
-This project was developed as part of a **Full-Stack Development** course.  
+This project was developed as part of a Full-Stack Development program and focuses on building a client-side React application with application logic, state management, and user interactions using mock data.
 The goal: build a React application to manage users, posts, and todos, using data from the [JSONPlaceholder](https://jsonplaceholder.typicode.com) API.  
 
 ---
