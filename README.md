@@ -1,4 +1,4 @@
-# React Mid Project  
+# User Management Web Application (React)
 
 This project was developed as part of a **Full-Stack Development** course.  
 The goal: build a React application to manage users, posts, and todos, using data from the [JSONPlaceholder](https://jsonplaceholder.typicode.com) API.  
